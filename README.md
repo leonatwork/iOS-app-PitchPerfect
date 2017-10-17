@@ -1,5 +1,5 @@
 # PitchPerfect
-An iOS app which allows you to record your voice and play it with different effects. PitchPerfect fundamentally uses the _AVFoundation_** framework for the audio effects. It uses the AutoLayout for the UI views.
+An iOS app which allows you to record your voice and play it with different effects. PitchPerfect fundamentally uses the **AVFoundation** framework for the audio effects. It uses the AutoLayout for the UI views.
 
 ## Sound effects
 
